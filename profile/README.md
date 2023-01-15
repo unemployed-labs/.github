@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-<img src="../assets/banner.png"/>
+<img src="https://raw.githubusercontent.com/unemployed-labs/.github/main/assets/banner.png"/>
 
 <!-- Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
 ### 🍿 An interconnected community
